@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/48721794/71516675-95bd8b80-28aa-11ea-863d-8de1fa99c145.png" width="60px" align="left" hspace="1" vspace="1">
+<img src="https://user-images.githubusercontent.com/48721794/71516675-95bd8b80-28aa-11ea-863d-8de1fa99c145.png" width="70px" align="left" hspace="1" vspace="1">
 
 ## CRYPTO
 Simple web application to encrypt and decrypt large text.
