@@ -1,0 +1,81 @@
+.title {
+    margin-top: 30px;
+}
+
+.select {
+    margin-top: 4px;
+    margin-right: 35px;
+    padding: 10px;
+    width: 130px;    
+    font-size: 10px;
+    text-align: left;
+    font-weight: bold;
+    border-radius: 5px 5px 5px 5px;
+    border: 0px;
+    background: #f1f1f1;
+    transition: box-shadow .3s;
+}
+
+.divglobal {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    min-width: 700px;
+}
+            
+.mm {
+    margin-top: 70px;
+}
+            
+.div_i {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 260;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+    color: white;
+}
+
+ #link{
+    color: white;
+    text-decoration: none;
+}
+
+.icon_buttons {
+    width: 15px;
+    height: 15px;
+}
+
+.icon_buttons:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.icon_github {
+    text-decoration: none;
+    color: #6c757d;
+    width: 20px;
+    height: 20px;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+            
+@media {
+    body {
+        min-width: 800px;
+        } 
+}
