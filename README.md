@@ -3,35 +3,21 @@
 ## CRYPTO
 Simple web application to encrypt and decrypt large text.
 
+### Downloads
 
-### Uses:
+#### Windows:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Download [here](https://github.com/massinlaaouaj/CRYPTO/releases/tag/v1.0) your .EXE (Build with Electron)
 
-```markdown
-Syntax highlighted code block
+#### Code (HTML,CSS,JS):
 
-# Header 1
-## Header 2
-### Header 3
+Download [here](https://github.com/massinlaaouaj/CRYPTO/releases/tag/v1.0) your ZIP file.
 
-- Bulleted
-- List
+### Screenshot
 
-1. Numbered
-2. List
+![crypto-desktop-app](https://user-images.githubusercontent.com/48721794/71518543-b50ce680-28b3-11ea-8908-c584d167478a.PNG)
 
-**Bold** and _Italic_ and `Code` text
+### Funcionality
 
-[Link](url) and ![Image](src)
-```
+#### Encrypt your text:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/massinlaaouaj/CRYPTO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
