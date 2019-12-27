@@ -13,9 +13,13 @@ Download [here](https://github.com/massinlaaouaj/CRYPTO/releases/tag/v1.0) your 
 
 Download [here](https://github.com/massinlaaouaj/CRYPTO/releases/tag/v1.0) your ZIP file.
 
+<hr>
+
 ### Screenshot
 
 ![crypto-desktop-app](https://user-images.githubusercontent.com/48721794/71518543-b50ce680-28b3-11ea-8908-c584d167478a.PNG)
+
+<hr>
 
 ### Funcionality
 
